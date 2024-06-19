@@ -9,8 +9,8 @@ This project is a simple student registration program implemented in C#. It allo
 - View all students
 
 ### Requirements
-- Visual Studio [Version]
-- .NET Framework [Version]
+- Visual Studio [2010]
+- .NET Framework 
 
 ### Installation
 1. Clone the repository:
@@ -35,14 +35,7 @@ Contributions are welcome! Here's how you can contribute:
 ### License
 This project is licensed under the [Student_Management_System] License - see the LICENSE.txt file for details.
 
-### Acknowledgments
-- [If you received help or inspiration from others, mention them here]
 
-### Support
-[Contact information or how to get help, if applicable]
-
-### Project Status
-[Is this project actively maintained? Is it stable?]
 
 ---
 
