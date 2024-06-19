@@ -1,9 +1,3 @@
-Student Registration Program (C#)
-
-Author: [Your Name]
-Date: [Date]
-
----
 
 ### Description
 This project is a simple student registration program implemented in C#. It allows users to add, update, delete, and view student records using a console-based interface.
